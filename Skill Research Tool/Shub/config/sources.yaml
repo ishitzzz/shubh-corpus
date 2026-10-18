@@ -1,0 +1,55 @@
+sources:
+  - name: farza_com
+    url: https://farza.com/
+    priority: 1
+    type: static
+    note: Personal site bio + about + linked pages. Short lowercase first-person voice gold.
+  - name: substack
+    url: https://farza.substack.com/feed
+    archive_api: https://farza.substack.com/api/v1/archive?sort=new&offset={offset}&limit=50
+    site: https://farza.substack.com/
+    priority: 1
+    type: rss+api+html
+    note: Full newsletter archive, dozens of posts. Titles + full bodies.
+  - name: x_farzatv
+    handle: FarzaTV
+    user_id: 327403216
+    priority: 1
+    type: snscrape+api-fallback
+    note: All original posts not replies/RTs. from:FarzaTV -filter:replies. Needs snscrape or X API v2.
+  - name: buildspace_letter
+    urls:
+      - https://buildspace.so/a-letter-to-you
+      - https://web.archive.org/web/2024/https://buildspace.so/a-letter-to-you
+    priority: 1
+    type: static
+    note: Long vulnerable closing letter. Try live then Wayback.
+  - name: heyclicky
+    url: https://heyclicky.com/
+    sitemap: https://heyclicky.com/sitemap.xml
+    priority: 2
+    type: crawl
+    note: Landing + changelog + about + vision copy.
+  - name: gdoc_vision
+    url: https://docs.google.com/document/d/1sfsGQurJ444vXKXcqcHg32SBRYz3LVrvOt4Hwig-ai8/mobilebasic
+    export_txt: https://docs.google.com/document/d/1sfsGQurJ444vXKXcqcHg32SBRYz3LVrvOt4Hwig-ai8/export?format=txt
+    priority: 2
+    type: gdoc-export
+    note: Founder vision note, pure voice.
+  - name: youtube_farzatv
+    channel: https://www.youtube.com/@farzatv
+    priority: 3
+    type: yt-dlp
+    note: Titles + descriptions only, NOT transcripts (spoken differs from written).
+  - name: instagram_farza954
+    handle: farza954
+    url: https://www.instagram.com/farza954/
+    priority: 3
+    type: best-effort
+    note: Casual captions, lower volume, login-walled. Best-effort only.
+
+crawl:
+  delay_sec: 1.0
+  timeout_sec: 30
+  user_agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) farza-corpus-bot/1.0
+  out_dir: data/raw

@@ -1,0 +1,407 @@
+BUCKET B SUMMARY
+==================================================
+
+SOURCE: x (46 items)
+------------------------------
+
+1. Item ID: x_0
+   URL: https://x.com/shubhgupta/status/2099116127158976980
+   Date: 2026-09-13T00:00:00
+   Exact Quote: 2 days ago it was 5 fps...
+   Notes: likes=6, rts=0, replies=0, views=836
+
+2. Item ID: x_1
+   URL: https://x.com/shubhgupta/status/2095971218096877602
+   Date: 2026-09-04T00:00:00
+   Exact Quote: gpt 6 before gta 6 is insane...
+   Notes: likes=6, rts=0, replies=0, views=378
+
+3. Item ID: x_2
+   URL: https://x.com/shubhgupta/status/2095595741528125780
+   Date: 2026-09-03T00:00:00
+   Exact Quote: This is GPT-6 Astra.
+
+Anything you can do on a computer, Astra can do for you. Fast. https://t.co/gDd0IsewJw...
+   Notes: likes=339865, rts=35372, replies=9059, views=137304445
+
+4. Item ID: x_3
+   URL: https://x.com/shubhgupta/status/2095047389044437354
+   Date: 2026-09-02T00:00:00
+   Exact Quote: harness engineering is the worst thing on earth...
+   Notes: likes=2, rts=0, replies=0, views=394
+
+5. Item ID: x_4
+   URL: https://x.com/shubhgupta/status/2094697576625054015
+   Date: 2026-09-01T00:00:00
+   Exact Quote: peak vagueposting...
+   Notes: likes=1, rts=0, replies=0, views=303
+
+6. Item ID: x_5
+   URL: https://x.com/shubhgupta/status/2094181567627424218
+   Date: 2026-08-30T00:00:00
+   Exact Quote: talked w/ a guy creating a consumer hardware for robotics
+
+something just fell off about him ever since that he has pivoted like 10 times, his co founder left, he got rejected by every single accelera...
+   Notes: likes=2, rts=0, replies=1, views=504
+
+7. Item ID: x_6
+   URL: https://x.com/shubhgupta/status/2094161064296644716
+   Date: 2026-08-30T00:00:00
+   Exact Quote: back in london...
+   Notes: likes=1, rts=0, replies=1, views=267
+
+8. Item ID: x_7
+   URL: https://x.com/shubhgupta/status/2094149674286649655
+   Date: 2026-08-30T00:00:00
+   Exact Quote: man i feel bad for this kid...
+   Notes: likes=5, rts=0, replies=1, views=791
+
+9. Item ID: x_8
+   URL: https://x.com/shubhgupta/status/2094055855662801039
+   Date: 2026-08-30T00:00:00
+   Exact Quote: used grok to file my taxes, what a world we live in...
+   Notes: likes=5, rts=0, replies=0, views=385
+
+10. Item ID: x_9
+   URL: https://x.com/shubhgupta/status/2092771061393998324
+   Date: 2026-08-27T00:00:00
+   Exact Quote: half of the sf startups will count this in their ARR...
+   Notes: likes=4, rts=0, replies=0, views=445
+
+11. Item ID: x_10
+   URL: https://x.com/shubhgupta/status/2092422666678677562
+   Date: 2026-08-26T00:00:00
+   Exact Quote: most harnesses are feeling too slow
+a harnesss should be as fast as possible
+
+codex/claude code/opencode all are just feeling too bloated...
+   Notes: likes=4, rts=0, replies=0, views=216
+
+12. Item ID: x_11
+   URL: https://x.com/shubhgupta/status/2089408275142037569
+   Date: 2026-08-17T00:00:00
+   Exact Quote: perfectly timed launch...
+   Notes: likes=3, rts=0, replies=0, views=799
+
+13. Item ID: x_12
+   URL: https://x.com/shubhgupta/status/2083945931230097901
+   Date: 2026-08-02T00:00:00
+   Exact Quote: your age is a depreciating asset and nobody treats it like one
+
+when someone expects you to be older and you're not, the contrast does all the selling for you. but that gap closes every single year
+
+i...
+   Notes: likes=626, rts=30, replies=21, views=93702
+
+14. Item ID: x_13
+   URL: https://x.com/shubhgupta/status/2086255070585495862
+   Date: 2026-08-09T00:00:00
+   Exact Quote: The curse of discipline is that every day looks the same. The curse of indiscipline is that every year does....
+   Notes: likes=159988, rts=33211, replies=566, views=9774793
+
+15. Item ID: x_14
+   URL: https://x.com/shubhgupta/status/2084903029996953927
+   Date: 2026-08-05T00:00:00
+   Exact Quote: stacked prs on github is lowk so good...
+   Notes: likes=9, rts=0, replies=0, views=883
+
+16. Item ID: x_15
+   URL: https://x.com/shubhgupta/status/2084672637935178011
+   Date: 2026-08-04T00:00:00
+   Exact Quote: hi nvidia https://t.co/VywnCiRsij...
+   Notes: likes=87, rts=0, replies=5, views=2701
+
+17. Item ID: x_16
+   URL: https://x.com/shubhgupta/status/2084285628305617117
+   Date: 2026-08-03T00:00:00
+   Exact Quote: wgmi https://t.co/9L5dnYTsv3...
+   Notes: likes=3073, rts=59, replies=39, views=197987
+
+18. Item ID: x_17
+   URL: https://x.com/shubhgupta/status/2084265802652606939
+   Date: 2026-08-03T00:00:00
+   Exact Quote: insane this is lowk so tuff...
+   Notes: likes=1, rts=0, replies=1, views=800
+
+19. Item ID: x_18
+   URL: https://x.com/shubhgupta/status/2084082822978154908
+   Date: 2026-08-03T00:00:00
+   Exact Quote: rss reader in terminal https://t.co/7mNgvEZ2b6...
+   Notes: likes=9, rts=0, replies=2, views=1048
+
+20. Item ID: x_19
+   URL: https://x.com/shubhgupta/status/2084082825305964834
+   Date: 2026-08-03T00:00:00
+   Exact Quote: https://t.co/k0aDs4fjr5...
+   Notes: likes=0, rts=0, replies=0, views=160
+
+... and 26 more items
+
+SOURCE: x_reply_context (31 items)
+------------------------------
+
+1. Item ID: reply_original_0
+   URL: https://x.com/shubhgupta/status/2095595741528125780
+   Date: 
+   Exact Quote: This is GPT-6 Astra.
+
+Anything you can do on a computer, Astra can do for you. Fast. https://t.co/gD...
+   Notes: original_post, likes=339857, replies_count=49
+
+2. Item ID: reply_original_1
+   URL: https://x.com/shubhgupta/status/2086255070585495862
+   Date: 
+   Exact Quote: The curse of discipline is that every day looks the same. The curse of indiscipline is that every ye...
+   Notes: original_post, likes=159988, replies_count=49
+
+3. Item ID: reply_original_2
+   URL: https://x.com/shubhgupta/status/2094181567627424218
+   Date: 
+   Exact Quote: talked w/ a guy creating a consumer hardware for robotics
+
+something just fell off about him ever si...
+   Notes: original_post, likes=2, replies_count=2
+
+4. Item ID: reply_original_3
+   URL: https://x.com/shubhgupta/status/2094161064296644716
+   Date: 
+   Exact Quote: back in london...
+   Notes: original_post, likes=1, replies_count=1
+
+5. Item ID: reply_original_4
+   URL: https://x.com/shubhgupta/status/2094149674286649655
+   Date: 
+   Exact Quote: man i feel bad for this kid...
+   Notes: original_post, likes=5, replies_count=1
+
+6. Item ID: reply_original_5
+   URL: https://x.com/shubhgupta/status/2084285628305617117
+   Date: 
+   Exact Quote: wgmi https://t.co/9L5dnYTsv3...
+   Notes: original_post, likes=3073, replies_count=35
+
+7. Item ID: reply_original_6
+   URL: https://x.com/shubhgupta/status/2083945931230097901
+   Date: 
+   Exact Quote: your age is a depreciating asset and nobody treats it like one
+
+when someone expects you to be older...
+   Notes: original_post, likes=626, replies_count=24
+
+8. Item ID: reply_original_7
+   URL: https://x.com/shubhgupta/status/2084672637935178011
+   Date: 
+   Exact Quote: hi nvidia https://t.co/VywnCiRsij...
+   Notes: original_post, likes=87, replies_count=6
+
+9. Item ID: reply_original_8
+   URL: https://x.com/shubhgupta/status/2084265802652606939
+   Date: 
+   Exact Quote: insane this is lowk so tuff...
+   Notes: original_post, likes=1, replies_count=2
+
+10. Item ID: reply_original_9
+   URL: https://x.com/shubhgupta/status/2083118141140562136
+   Date: 
+   Exact Quote: slow = die...
+   Notes: original_post, likes=7, replies_count=2
+
+11. Item ID: reply_original_10
+   URL: https://x.com/shubhgupta/status/2083974063962349687
+   Date: 
+   Exact Quote: we just raised 500k at a 3mil$ valuation, completely PRE-IDEA
+no other founder has ever had this muc...
+   Notes: original_post, likes=134, replies_count=34
+
+12. Item ID: reply_original_11
+   URL: https://x.com/shubhgupta/status/2084082822978154908
+   Date: 
+   Exact Quote: rss reader in terminal https://t.co/7mNgvEZ2b6...
+   Notes: original_post, likes=9, replies_count=2
+
+13. Item ID: reply_original_12
+   URL: https://x.com/shubhgupta/status/2075152834753073440
+   Date: 
+   Exact Quote: we are hiring
+looking for content creators to be face of A16z-backed robotics startup
+
+must be fluen...
+   Notes: original_post, likes=136, replies_count=23
+
+14. Item ID: reply_original_13
+   URL: https://x.com/shubhgupta/status/2083043196259680663
+   Date: 
+   Exact Quote: say what you truly believe...
+   Notes: original_post, likes=56, replies_count=3
+
+15. Item ID: reply_original_14
+   URL: https://x.com/shubhgupta/status/2080491152596517224
+   Date: 
+   Exact Quote: jane street and sk hynix is crazy lowk building final boss of inference...
+   Notes: original_post, likes=4, replies_count=1
+
+16. Item ID: reply_original_15
+   URL: https://x.com/shubhgupta/status/2080047369505435929
+   Date: 
+   Exact Quote: pessimism is a form of self hatred...
+   Notes: original_post, likes=17, replies_count=3
+
+17. Item ID: reply_original_16
+   URL: https://x.com/shubhgupta/status/2080052430612643881
+   Date: 
+   Exact Quote: building the better version of wandb. shipping in one week or i am a grifter...
+   Notes: original_post, likes=7, replies_count=1
+
+18. Item ID: reply_original_17
+   URL: https://x.com/shubhgupta/status/2074497359766290697
+   Date: 
+   Exact Quote: to a still mind universe surrenders...
+   Notes: original_post, likes=7, replies_count=1
+
+19. Item ID: reply_original_18
+   URL: https://x.com/shubhgupta/status/2072214277151396010
+   Date: 
+   Exact Quote: i am soo happy...
+   Notes: original_post, likes=3, replies_count=1
+
+20. Item ID: reply_original_19
+   URL: https://x.com/shubhgupta/status/2072015210186223910
+   Date: 
+   Exact Quote: we ballin
+thanks @msft4startups https://t.co/8PFyhXVxJg...
+   Notes: original_post, likes=29, replies_count=3
+
+... and 11 more items
+
+SOURCE: x_reply (390 items)
+------------------------------
+
+1. Item ID: reply_0_0
+   URL: https://x.com/openai/status/2095595742975197690
+   Date: 
+   Exact Quote: GPT-6 Astra is the most intelligent and aligned model in the world, and sets a new state of the art ...
+   Notes: reply_to_shubh, author=OpenAI
+
+2. Item ID: reply_0_1
+   URL: https://x.com/openai/status/2095595744300503356
+   Date: 
+   Exact Quote: Astra achieves state-of-the-art results on Agents’ Last Exam, AutomationBench, and ScreenSpot Pro, b...
+   Notes: reply_to_shubh, author=OpenAI
+
+3. Item ID: reply_0_2
+   URL: https://x.com/openai/status/2095595748528452037
+   Date: 
+   Exact Quote: Astra is our most aligned model, with substantial improvements in understanding user intent. https:/...
+   Notes: reply_to_shubh, author=OpenAI
+
+4. Item ID: reply_0_3
+   URL: https://x.com/openai/status/2095595752815030713
+   Date: 
+   Exact Quote: GPT-6 Astra is state-of-the-art on FrontierMath Tier 4, ARC-AGI 3, and TerminalBench-4.0.
+
+GPT‑6 Ast...
+   Notes: reply_to_shubh, author=OpenAI
+
+5. Item ID: reply_0_4
+   URL: https://x.com/openai/status/2095595757072191802
+   Date: 
+   Exact Quote: GPT-6 Astra is rolling out today to a limited set of organizations and over the coming days will bec...
+   Notes: reply_to_shubh, author=OpenAI
+
+6. Item ID: reply_0_5
+   URL: https://x.com/openai/status/2095595758967988662
+   Date: 
+   Exact Quote: "Put That There" clip courtesy of MIT Media Laboratory, Chris Schmandt, and Eric Hulteen....
+   Notes: reply_to_shubh, author=OpenAI
+
+7. Item ID: reply_0_6
+   URL: https://x.com/thech0pper/status/2095683759647424684
+   Date: 
+   Exact Quote: @OpenAI https://t.co/naSMx5DwM4...
+   Notes: reply_to_shubh, author=TheCh0pper
+
+8. Item ID: reply_0_7
+   URL: https://x.com/joshelgar/status/2095600204057653348
+   Date: 
+   Exact Quote: @OpenAI me rn https://t.co/7QibO0K6xH...
+   Notes: reply_to_shubh, author=joshelgar
+
+9. Item ID: reply_0_8
+   URL: https://x.com/ilovefazz/status/2095663119116968100
+   Date: 
+   Exact Quote: @OpenAI Me watching 20 years of computer skills become irrelevant in one demo: https://t.co/H4telXQR...
+   Notes: reply_to_shubh, author=iloveFazz
+
+10. Item ID: reply_0_9
+   URL: https://x.com/ash_siingh/status/2095612753553826056
+   Date: 
+   Exact Quote: @OpenAI we're actually getting jarvis https://t.co/NC4RNnHRur...
+   Notes: reply_to_shubh, author=ash_siingh
+
+11. Item ID: reply_0_10
+   URL: https://x.com/maojam7/status/2095622437237076031
+   Date: 
+   Exact Quote: @ash_siingh @OpenAI No you're actually on your way to being jobless in 30 years...
+   Notes: reply_to_shubh, author=MaoJam7
+
+12. Item ID: reply_0_11
+   URL: https://x.com/annaharperbbyxx/status/2095618262952243252
+   Date: 
+   Exact Quote: @OpenAI this won't help anyone, it just creates lazier idiots who can't do things themselves
+you peo...
+   Notes: reply_to_shubh, author=annaharperbbyxx
+
+13. Item ID: reply_0_12
+   URL: https://x.com/walker557947578/status/2095628374534139971
+   Date: 
+   Exact Quote: @OpenAI I don't know, this makes me feel incredibly empty and sad.  No taste is expressed in any of ...
+   Notes: reply_to_shubh, author=Walker557947578
+
+14. Item ID: reply_0_13
+   URL: https://x.com/thebreakingrprt/status/2095600585059799447
+   Date: 
+   Exact Quote: @OpenAI Sol isn’t happy https://t.co/Q6E9GqOpz2...
+   Notes: reply_to_shubh, author=TheBreakingRprt
+
+15. Item ID: reply_0_14
+   URL: https://x.com/codewithrehan/status/2095699273602269303
+   Date: 
+   Exact Quote: @OpenAI https://t.co/gaHuNJnPJr...
+   Notes: reply_to_shubh, author=codewithrehan
+
+16. Item ID: reply_0_15
+   URL: https://x.com/woozy_sol/status/2095737985526272440
+   Date: 
+   Exact Quote: @OpenAI why is he using the computer to play the game? shouldn’t astra play for him as well then? ht...
+   Notes: reply_to_shubh, author=woozy_sol
+
+17. Item ID: reply_0_16
+   URL: https://x.com/nick_stringari/status/2095676134889542096
+   Date: 
+   Exact Quote: @OpenAI WALL-E couch dwellers and low talent narcissists gonna love this....
+   Notes: reply_to_shubh, author=nick_stringari
+
+18. Item ID: reply_0_17
+   URL: https://x.com/bridgemindai/status/2095596197478056285
+   Date: 
+   Exact Quote: @OpenAI Worst launch ever.
+
+You should have just launched it today to all users....
+   Notes: reply_to_shubh, author=bridgemindai
+
+19. Item ID: reply_0_18
+   URL: https://x.com/maikmuellerart/status/2095658710995546483
+   Date: 
+   Exact Quote: @OpenAI "Hey ChatGPT, can you make graphics cards, ram and storage affordable again?"
+
+And nah, this...
+   Notes: reply_to_shubh, author=MaikMuellerArt
+
+20. Item ID: reply_0_19
+   URL: https://x.com/vinsonleow/status/2095737746442866942
+   Date: 
+   Exact Quote: @OpenAI its hard to stay committed these day... https://t.co/ZQ3K3ft60f...
+   Notes: reply_to_shubh, author=vinsonleow
+
+... and 370 more items
+

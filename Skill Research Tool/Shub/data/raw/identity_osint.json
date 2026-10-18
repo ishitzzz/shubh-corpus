@@ -1,0 +1,67 @@
+{
+  "username": "shubhgupta",
+  "confirmed_name": "Shubh Gupta",
+  "profile_context": {
+    "age": 18,
+    "education": "Dropped out of Imperial College London",
+    "location": "Bangalore",
+    "bio_x": "@imperialcollege / investing",
+    "x_followers": 573,
+    "x_total_tweets": 359,
+    "venture_fund": "Raised $5 million for a venture fund backing people from backgrounds",
+    "website": "https://shubhxho.com/"
+  },
+  "identity_sources": {
+    "user_scanner": {
+      "total_platforms_scanned": 882,
+      "platforms_found": 84,
+      "name": "Shubh Gupta",
+      "profiles_found": [
+        "Bio.site",
+        "Twitch",
+        "Substack",
+        "Medium",
+        "Itch.io",
+        "Gumroad",
+        "Kaggle",
+        "Patreon",
+        "Linktree",
+        "Ko-fi",
+        "Soundcloud",
+        "Audiomack",
+        "Rumble",
+        "Last.fm",
+        "AudioJungle"
+      ]
+    },
+    "website_scrape": {
+      "age": 18,
+      "education": "Dropped out of Imperial College London",
+      "location": "Bangalore",
+      "topic": "Venture fund, building in public, personal essays"
+    },
+    "x_bio": {
+      "handle": "@imperialcollege / investing",
+      "followers": 573,
+      "total_tweets": 359
+    }
+  },
+  "social_graph": {
+    "platforms_with_profiles": [
+      "Twitch",
+      "Substack",
+      "Medium",
+      "Ko-fi",
+      "Patreon",
+      "Linktree",
+      "Soundcloud",
+      "Gumroad",
+      "Kaggle"
+    ],
+    "cross_platform_name_variants": [
+      "shubhgupta",
+      "shubh gupta",
+      "Shubh Gupta"
+    ]
+  }
+}

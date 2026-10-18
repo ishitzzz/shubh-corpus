@@ -1,0 +1,77 @@
+[
+  {
+    "full_name": "anthropics/claude-code",
+    "stargazers_count": 146920,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "langflow-ai/langflow",
+    "stargazers_count": 155040,
+    "language": "Python"
+  },
+  {
+    "full_name": "denoland/deno",
+    "stargazers_count": 108474,
+    "language": "Rust"
+  },
+  {
+    "full_name": "xai-org/grok-build",
+    "stargazers_count": 26911,
+    "language": "Rust"
+  },
+  {
+    "full_name": "pingdotgg/t3code",
+    "stargazers_count": 23138,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "AstroNvim/AstroNvim",
+    "stargazers_count": 14438,
+    "language": "Lua"
+  },
+  {
+    "full_name": "sharpemu/sharpemu",
+    "stargazers_count": 5407,
+    "language": "C#"
+  },
+  {
+    "full_name": "athasdev/athas",
+    "stargazers_count": 3074,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "commaai/panda",
+    "stargazers_count": 1701,
+    "language": "C"
+  },
+  {
+    "full_name": "Git-on-my-level/codex-autorunner",
+    "stargazers_count": 881,
+    "language": "Python"
+  },
+  {
+    "full_name": "SII-WANGZJ/Polymarket_data",
+    "stargazers_count": 831,
+    "language": "Python"
+  },
+  {
+    "full_name": "ese-msc/introduction-to-python",
+    "stargazers_count": 110,
+    "language": "Jupyter Notebook"
+  },
+  {
+    "full_name": "palantir/osdk-ts",
+    "stargazers_count": 91,
+    "language": "TypeScript"
+  },
+  {
+    "full_name": "HACKE-RC/Bandsox",
+    "stargazers_count": 76,
+    "language": "Python"
+  },
+  {
+    "full_name": "itsvedantkumar/vstack",
+    "stargazers_count": 5,
+    "language": "Shell"
+  }
+]

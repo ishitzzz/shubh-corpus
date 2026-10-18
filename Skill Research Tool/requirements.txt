@@ -1,0 +1,11 @@
+httpx>=0.27
+beautifulsoup4>=4.12
+lxml>=5.0
+feedparser>=6.0
+yt-dlp>=2024.8.6
+pandas>=2.0
+pyyaml>=6.0
+# Optional advanced libs (user-suggested) - install as needed:
+# scrapling>=0.3
+# crawlee>=0.4
+# snscrape>=0.7 (X/Twitter best-effort, often rate-limited)

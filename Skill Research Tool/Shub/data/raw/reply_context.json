@@ -1,0 +1,59 @@
+{
+  "posts_with_replies": [
+    {
+      "post_id": "2094181567627424218",
+      "post_text": "talked w/ a guy creating a consumer hardware for robotics \u2014 something just fell off about him ever since that he has pivoted like 10 times, his co founder left, he got rejected by every single accelerator, internship program possible",
+      "date": "2026-08-30",
+      "reply": {
+        "author": "shourya",
+        "screenName": "shourshot",
+        "text": "@shubhgupta hey man i'm not that bad come on",
+        "context": "Shubh was talking about a robotics builder who pivoted 10x, lost co-founder, got rejected by every accelerator. Shourya replies reassuring him."
+      }
+    },
+    {
+      "post_id": "2094161064296644716",
+      "post_text": "back in london",
+      "date": "2026-08-30",
+      "reply": {
+        "author": "different person (not Shubh)",
+        "screenName": "removed",
+        "text": "@shubhgupta why tho?",
+        "context": "Someone named Shubh Gupta (different account) asks why Shubh mentioned 'back in london' \u2014 nostalgic reference to London/Imperial College."
+      }
+    },
+    {
+      "post_id": "2094149674286649655",
+      "post_text": "man i feel bad for this kid",
+      "date": "2026-08-30",
+      "reply": {
+        "author_id": "2093625141171524034",
+        "text": "we got rejected by YC \u2014 made a video explaining it all so not gonna type everything here",
+        "context": "Shubh expressed empathy for a 'kid'. A reply shares that the person got rejected by YC and made a video about it \u2014 matching Shubh's empathetic, build-in-public tone.",
+        "author": "YC-rejected builder",
+        "screenName": "unknown"
+      }
+    }
+  ],
+  "people_in_shubh_network": [
+    {
+      "handle": "shourshot",
+      "name": "shourya",
+      "relation": "friend/peer who replies to Shubh's posts",
+      "context": "Reassured Shubh about the robotics guy"
+    },
+    {
+      "handle": "unknown",
+      "name": "YC-rejected builder",
+      "relation": "someone Shubh empathizes with",
+      "context": "Got rejected by YC, made explanatory video"
+    }
+  ],
+  "conversation_themes": [
+    "Rejection and resilience (YC, accelerators, co-founder leaving)",
+    "London/Nostalgia (Imperial College past)",
+    "Community support and empathy",
+    "Robotics/consumer hardware builders",
+    "Build-in-public sharing"
+  ]
+}

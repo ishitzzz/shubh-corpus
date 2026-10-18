@@ -1,0 +1,55 @@
+BUCKET E SUMMARY
+==================================================
+
+SOURCE: identity_profile (1 items)
+------------------------------
+
+1. Item ID: identity_profile
+   URL: https://shubhxho.com/
+   Date: 
+   Exact Quote: Name: , Age: 18, Education: Dropped out of Imperial College London, Location: Bangalore, Venture Fund: Raised $5 million for a venture fund backing people from backgrounds...
+   Notes: x_handle=, x_followers=573, x_total_tweets=359
+
+SOURCE: identity_website_scrape (1 items)
+------------------------------
+
+1. Item ID: identity_website_scrape
+   URL: https://shubhxho.com/
+   Date: 
+   Exact Quote: Age: 18, Education: Dropped out of Imperial College London, Location: Bangalore, Topic: Venture fund, building in public, personal essays...
+
+SOURCE: identity_x_bio (1 items)
+------------------------------
+
+1. Item ID: identity_x_bio
+   URL: https://x.com/shubhgupta
+   Date: 
+   Exact Quote: Bio: , Followers: 573, Total Tweets: 359...
+
+SOURCE: identity_social_graph (1 items)
+------------------------------
+
+1. Item ID: identity_social_graph
+   URL: 
+   Date: 
+   Exact Quote: Platforms with profiles: Twitch, Substack, Medium, Ko-fi, Patreon, Linktree, Soundcloud, Gumroad, Kaggle...
+   Notes: name_variants: shubhgupta, shubh gupta, Shubh Gupta
+
+SOURCE: github_profile (1 items)
+------------------------------
+
+1. Item ID: github_profile
+   URL: https://github.com/shubhxho
+   Date: 2026-09-19T05:35:03Z
+   Exact Quote: GitHub: Shubh (@shubhxho), 56 repos, 30 followers, 66 following...
+   Notes: company=Imperial College London, blog=shubhxho.com, location=london, twitter_username=shubhxho
+
+SOURCE: github_stats (1 items)
+------------------------------
+
+1. Item ID: github_stats
+   URL: 
+   Date: 
+   Exact Quote: GitHub stats: 52 repos, 15 starred, 9 readmes, 9 HF models, 12 HF datasets, 2 HF spaces...
+   Notes: most_used_langs: [['Python', 13], ['Go', 3], ['TypeScript', 2]], github_followers: 30, github_following: 66, twitter_followers: 573
+

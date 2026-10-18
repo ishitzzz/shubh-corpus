@@ -1,0 +1,235 @@
+BUCKET D SUMMARY
+==================================================
+
+SOURCE: hf_model (9 items)
+------------------------------
+
+1. Item ID: hf_model_shubhxho_ego-world-10
+   URL: https://huggingface.co/shubhxho/ego-world-10
+   Date: 2026-02-19T00:53:39.000Z
+   Exact Quote: shubhxho/ego-world-10 (safetensors, videomae, doi:10.57967/hf/8979)...
+   Notes: likes=0, downloads=6, library=
+
+2. Item ID: hf_model_shubhxho_glm-bestfriend-companion-adapter
+   URL: https://huggingface.co/shubhxho/glm-bestfriend-companion-adapter
+   Date: 2026-06-19T20:53:04.000Z
+   Exact Quote: shubhxho/glm-bestfriend-companion-adapter (peft, safetensors, lora)...
+   Notes: likes=0, downloads=5, library=peft
+
+3. Item ID: hf_model_shubhxho_glm-bestfriend-glm9b-dpo-probe
+   URL: https://huggingface.co/shubhxho/glm-bestfriend-glm9b-dpo-probe
+   Date: 2026-06-20T07:29:56.000Z
+   Exact Quote: shubhxho/glm-bestfriend-glm9b-dpo-probe (peft, safetensors, lora)...
+   Notes: likes=0, downloads=3, library=peft
+
+4. Item ID: hf_model_shubhxho_video-benchmark-compact-quality
+   URL: https://huggingface.co/shubhxho/video-benchmark-compact-quality
+   Date: 2026-06-29T11:00:08.000Z
+   Exact Quote: shubhxho/video-benchmark-compact-quality (pytorch, safetensors, gguf)...
+   Notes: likes=0, downloads=146, library=pytorch
+
+5. Item ID: hf_model_shubhxho_polymarket-signal-model
+   URL: https://huggingface.co/shubhxho/polymarket-signal-model
+   Date: 2026-07-29T10:02:58.000Z
+   Exact Quote: shubhxho/polymarket-signal-model (mlx, safetensors, time-series-forecasting)...
+   Notes: likes=1, downloads=0, library=mlx
+
+6. Item ID: hf_model_shubhxho_sable-chess-net
+   URL: https://huggingface.co/shubhxho/sable-chess-net
+   Date: 2026-08-10T01:29:46.000Z
+   Exact Quote: shubhxho/sable-chess-net (bullet, chess, chess-engine)...
+   Notes: likes=0, downloads=0, library=bullet
+
+7. Item ID: hf_model_shubhxho_cmf-2
+   URL: https://huggingface.co/shubhxho/cmf-2
+   Date: 2026-08-19T08:56:05.000Z
+   Exact Quote: shubhxho/cmf-2 (mlx, polymarket, prediction-markets)...
+   Notes: likes=0, downloads=0, library=mlx
+
+8. Item ID: hf_model_shubhxho_Unlimited-OCR-MLX
+   URL: https://huggingface.co/shubhxho/Unlimited-OCR-MLX
+   Date: 2026-08-24T22:50:10.000Z
+   Exact Quote: shubhxho/Unlimited-OCR-MLX (mlx, ocr, document-parsing)...
+   Notes: likes=0, downloads=0, library=mlx
+
+9. Item ID: hf_model_shubhxho_visionary-mlx
+   URL: https://huggingface.co/shubhxho/visionary-mlx
+   Date: 2026-09-06T06:48:01.000Z
+   Exact Quote: shubhxho/visionary-mlx (mlx, world-model, video)...
+   Notes: likes=0, downloads=0, library=mlx
+
+SOURCE: hf_dataset (12 items)
+------------------------------
+
+1. Item ID: hf_dataset_shubhxho_ipmattards
+   URL: https://huggingface.co/datasets/shubhxho/ipmattards
+   Date: 2026-01-05T21:04:51.000Z
+   Exact Quote: shubhxho/ipmattards: 
+	
+		
+		r/IPMATtards Reddit Dataset
+	
+
+
+	
+		
+		Dataset Description
+	
+
+This dataset contains scraped posts and comments from the r/IPMATtards subreddit, a community dedicated to as...
+   Notes: likes=0, downloads=35
+
+2. Item ID: hf_dataset_shubhxho_BhaveshShaha
+   URL: https://huggingface.co/datasets/shubhxho/BhaveshShaha
+   Date: 2026-01-06T16:23:09.000Z
+   Exact Quote: shubhxho/BhaveshShaha: 
+	
+		
+		BhaveshShaha Reddit Dataset
+	
+
+This dataset contains Reddit user comments in multiple ML-ready formats.
+
+	
+		
+		Configurations
+	
+
+
+full: Complete data with all fields
+qa...
+   Notes: likes=0, downloads=30
+
+3. Item ID: hf_dataset_shubhxho_models
+   URL: https://huggingface.co/datasets/shubhxho/models
+   Date: 2026-01-23T19:54:07.000Z
+   Exact Quote: shubhxho/models: ...
+   Notes: likes=0, downloads=40
+
+4. Item ID: hf_dataset_shubhxho_speall
+   URL: https://huggingface.co/datasets/shubhxho/speall
+   Date: 2026-03-16T22:30:46.000Z
+   Exact Quote: shubhxho/speall: 
+	
+		
+		SPEALL — Synthetic Egocentric Manipulation Dataset
+	
+
+SPEALL is a multimodal egocentric manipulation dataset generated using Odyssey, a frontier interactive world model that s...
+   Notes: likes=0, downloads=4
+
+5. Item ID: hf_dataset_shubhxho_reactor
+   URL: https://huggingface.co/datasets/shubhxho/reactor
+   Date: 2026-03-28T11:39:44.000Z
+   Exact Quote: shubhxho/reactor: ...
+   Notes: likes=0, downloads=65
+
+6. Item ID: hf_dataset_shubhxho_ego-world-model-v1
+   URL: https://huggingface.co/datasets/shubhxho/ego-world-model-v1
+   Date: 2026-04-02T21:01:52.000Z
+   Exact Quote: shubhxho/ego-world-model-v1: 
+language:
+
+en
+license: cc-by-4.0
+size_categories:
+10K<n<100K
+source_datasets:
+MicroAGI-Labs/MicroAGI00
+task_categories:
+video-classification
+image-segmentation
+depth-esti...
+   Notes: likes=0, downloads=121
+
+7. Item ID: hf_dataset_shubhxho_brain-mri-redacted
+   URL: https://huggingface.co/datasets/shubhxho/brain-mri-redacted
+   Date: 2026-04-25T05:52:59.000Z
+   Exact Quote: shubhxho/brain-mri-redacted: 
+	
+		
+	
+	
+		brain-mri-redacted
+	
+
+De-identified medical imaging study processed by micom.
+
+	
+		
+	
+	
+		Dataset Summary
+	
+
+
+	
+		
+Property
+Value
+
+
+		
+Study
+brain-mri-redacted...
+   Notes: likes=0, downloads=1
+
+8. Item ID: hf_dataset_shubhxho_micom-mri
+   URL: https://huggingface.co/datasets/shubhxho/micom-mri
+   Date: 2026-04-28T21:13:18.000Z
+   Exact Quote: shubhxho/micom-mri: ...
+   Notes: likes=0, downloads=8
+
+9. Item ID: hf_dataset_shubhxho_akai-mri
+   URL: https://huggingface.co/datasets/shubhxho/akai-mri
+   Date: 2026-04-29T14:35:56.000Z
+   Exact Quote: shubhxho/akai-mri: ...
+   Notes: likes=0, downloads=2
+
+10. Item ID: hf_dataset_shubhxho_speall-mri
+   URL: https://huggingface.co/datasets/shubhxho/speall-mri
+   Date: 2026-05-01T15:37:24.000Z
+   Exact Quote: shubhxho/speall-mri: ...
+   Notes: likes=0, downloads=7
+
+11. Item ID: hf_dataset_shubhxho_operator-video-quality
+   URL: https://huggingface.co/datasets/shubhxho/operator-video-quality
+   Date: 2026-06-30T17:37:29.000Z
+   Exact Quote: shubhxho/operator-video-quality: 
+	
+		
+	
+	
+		Operator Video Quality — distillation-fidelity benchmark
+	
+
+This is the scorecard for the Compact Operator-Video Quality Model. That model is distilled fro...
+   Notes: likes=0, downloads=22
+
+12. Item ID: hf_dataset_shubhxho_cmf-15m-binance
+   URL: https://huggingface.co/datasets/shubhxho/cmf-15m-binance
+   Date: 2026-08-19T08:56:06.000Z
+   Exact Quote: shubhxho/cmf-15m-binance: 
+	
+		
+	
+	
+		CMF 15-minute Binance windows
+	
+
+1-minute USDT-M closes used to train CMF-2. The trainer cuts these into 15-minute windows (and a denser train stride) for BTC, ET...
+   Notes: likes=0, downloads=39
+
+SOURCE: hf_space (2 items)
+------------------------------
+
+1. Item ID: hf_space_shubhxho/cmf-2
+   URL: https://huggingface.co/spaces/shubhxho/cmf-2
+   Date: 
+   Exact Quote: shubhxho/cmf-2: Show a static welcome page (Running)...
+
+2. Item ID: hf_space_shubhxho/cmf-2-card
+   URL: https://huggingface.co/spaces/shubhxho/cmf-2-card
+   Date: 
+   Exact Quote: shubhxho/cmf-2-card: Custom static web page (Static welcome page)...
+

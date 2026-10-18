@@ -1,0 +1,4 @@
+# BEGIN clonedeps-managed-allowlist
+!.slim/clonedeps.json
+!.slim/clonedeps/repos/
+# END clonedeps-managed-allowlist

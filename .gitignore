@@ -1,0 +1,16 @@
+# macOS / editor junk
+.DS_Store
+**/.DS_Store
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Cloned third-party dependency source (see Skill Research Tool/.gitignore)
+.slim/clonedeps/repos/
+.slim/tmp/

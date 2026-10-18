@@ -1,0 +1,128 @@
+BUCKET C SUMMARY
+==================================================
+
+SOURCE: github_repo (52 items)
+------------------------------
+
+1. Item ID: github_repo_KytyPS5
+   URL: 
+   Date: 2026-09-19T14:21:27Z
+   Exact Quote: KytyPS5: PlayStation 5 emulator for Windows, Linux and MacOS...
+   Notes: language=None, stars=0, fork=False, pushed=2026-09-19T14:21:27Z
+
+2. Item ID: github_repo_omi
+   URL: 
+   Date: 2026-09-18T15:47:40Z
+   Exact Quote: omi: AI that sees your screen, listens to your conversations, transcribes in real-time, and generates summaries. Works on desktop, phone, and wearables....
+   Notes: language=None, stars=0, fork=False, pushed=2026-09-18T15:47:40Z
+
+3. Item ID: github_repo_agent-sandbox
+   URL: 
+   Date: 2026-09-14T14:53:38Z
+   Exact Quote: agent-sandbox: Containment for tool-using agents. The model still picks the tool. This process decides whether it may run....
+   Notes: language=Go, stars=0, fork=False, pushed=2026-09-14T14:53:38Z
+
+4. Item ID: github_repo_based-chess-rs
+   URL: 
+   Date: 2026-09-14T07:46:51Z
+   Exact Quote: based-chess-rs: A no_std Rust chess engine with a 30 KB evaluation network, trained on games played against itself. ~2800 Elo....
+   Notes: language=Rust, stars=0, fork=False, pushed=2026-09-14T07:46:51Z
+
+5. Item ID: github_repo_visionary-mlx
+   URL: 
+   Date: 2026-09-07T12:05:51Z
+   Exact Quote: visionary-mlx: MLX video tokenizer, action-conditioned world model, and imagination-trained agent. Reinforcement Learning....
+   Notes: language=Python, stars=0, fork=False, pushed=2026-09-07T12:05:51Z
+
+6. Item ID: github_repo_t3code
+   URL: 
+   Date: 2026-09-05T00:30:47Z
+   Exact Quote: t3code: Agent harness control surface. Control agents on your machine with a mobile app (iOS, Android, web)....
+   Notes: language=None, stars=0, fork=False, pushed=2026-09-05T00:30:47Z
+
+7. Item ID: github_repo_llvm-project
+   URL: 
+   Date: 2026-09-03T19:54:56Z
+   Exact Quote: llvm-project: The LLVM Project is a collection of modular and reusable compiler and toolchain technologies....
+   Notes: language=None, stars=0, fork=True, pushed=2026-09-03T19:54:56Z
+
+8. Item ID: github_repo_shubhxho
+   URL: 
+   Date: 2026-09-02T06:40:49Z
+   Exact Quote: shubhxho: Personal website and project hub....
+   Notes: language=TypeScript, stars=0, fork=False, pushed=2026-09-02T06:40:49Z
+
+9. Item ID: github_repo_speall
+   URL: 
+   Date: 2026-08-31T10:58:15Z
+   Exact Quote: speall: One search field over the open neuroscience archives. Ingests public dataset metadata from seven archives....
+   Notes: language=TypeScript, stars=0, fork=False, pushed=2026-08-31T10:58:15Z
+
+10. Item ID: github_repo_micon
+   URL: 
+   Date: 2026-08-29T23:54:32Z
+   Exact Quote: micon: Medical imaging viewer....
+   Notes: language=Python, stars=0, fork=False, pushed=2026-08-29T23:54:32Z
+
+11. Item ID: github_repo_nanoharness
+   URL: 
+   Date: 2026-08-27T00:18:54Z
+   Exact Quote: nanoharness: Minimal harness for testing and benchmarking....
+   Notes: language=Go, stars=0, fork=False, pushed=2026-08-27T00:18:54Z
+
+12. Item ID: github_repo_slang-server
+   URL: 
+   Date: 2026-08-25T22:05:50Z
+   Exact Quote: slang-server: A SystemVerilog language server based on the Slang library....
+   Notes: language=None, stars=0, fork=False, pushed=2026-08-25T22:05:50Z
+
+13. Item ID: github_repo_Unlimited-OCR-mlx
+   URL: 
+   Date: 2026-08-24T23:11:03Z
+   Exact Quote: Unlimited-OCR-mlx: Unlimited OCR Works: Native Apple Silicon inference for Baidu Unlimited-OCR. Document parsing....
+   Notes: language=Python, stars=0, fork=False, pushed=2026-08-24T23:11:03Z
+
+14. Item ID: github_repo_neovim
+   URL: 
+   Date: 2026-08-24T22:15:05Z
+   Exact Quote: neovim: Vim-fork focused on extensibility and usability....
+   Notes: language=None, stars=0, fork=True, pushed=2026-08-24T22:15:05Z
+
+15. Item ID: github_repo_table
+   URL: 
+   Date: 2026-08-22T13:00:23Z
+   Exact Quote: table: Headless UI for building powerful tables & datagrids for TypeScript....
+   Notes: language=None, stars=0, fork=False, pushed=2026-08-22T13:00:23Z
+
+16. Item ID: github_repo_uv
+   URL: 
+   Date: 2026-08-20T12:00:00Z
+   Exact Quote: uv: An extremely fast Python package and project manager, written in Rust....
+   Notes: language=None, stars=0, fork=True, pushed=2026-08-20T12:00:00Z
+
+17. Item ID: github_repo_accelerate
+   URL: 
+   Date: 2026-08-15T12:00:00Z
+   Exact Quote: accelerate: A simple way to launch, train, and use PyTorch models on a cluster....
+   Notes: language=None, stars=0, fork=True, pushed=2026-08-15T12:00:00Z
+
+18. Item ID: github_repo_workers-sdk
+   URL: 
+   Date: 2026-08-10T12:00:00Z
+   Exact Quote: workers-sdk: Home to Wrangler, the CLI for Cloudflare Workers....
+   Notes: language=None, stars=0, fork=True, pushed=2026-08-10T12:00:00Z
+
+19. Item ID: github_repo_Hyprland
+   URL: 
+   Date: 2026-08-05T12:00:00Z
+   Exact Quote: Hyprland: Independent, highly customizable, dynamic tiling Wayland compositor....
+   Notes: language=None, stars=0, fork=True, pushed=2026-08-05T12:00:00Z
+
+20. Item ID: github_repo_polymarket-model
+   URL: 
+   Date: 2026-07-31T12:00:00Z
+   Exact Quote: polymarket-model: Dual-stream cross-market fusion for Polymarket 15-minute crypto price prediction....
+   Notes: language=Python, stars=0, fork=False, pushed=2026-07-31T12:00:00Z
+
+... and 32 more items
+

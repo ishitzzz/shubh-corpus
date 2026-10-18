@@ -1,0 +1,11 @@
+{
+  "omi": "**A 2nd brain you trust more than your 1st**\nOmi captures your screen and conversations, transcribes in real-time, generates summaries and action items, and gives you an AI chat that remembers everything you've seen and heard. Works on desktop, phone and wearables.",
+  "based-chess-rs": "**Neutron-o1** - A chess engine written in Rust. Evaluates positions with a 60 KB neural network, trained on games played against itself. ~2800 Elo.",
+  "agent-sandbox": "Containment for tool-using agents. The model still picks the tool. This process decides whether it may run, pins HTTPS away from private addresses, runs child binaries inside systemd-run cgroups (Linux) or sandbox-exec (macOS), strips secrets, and appends a hash-chained audio digest.",
+  "KytyPS5": "PlayStation 5 emulator for Windows, Linux and MacOS. CI/CD pipelines for Windows and Linux.",
+  "polymarket-model": "CMF-2 50M. Weights on huggingface.co/shubhxho/cmf-2. Dataset on huggingface.co/datasets/shubhxho/cmf-15m-binance.",
+  "visionary-mlx": "MLX video tokenizer, action-conditioned world model, and imagination-trained agent. Reinforcement Learning.",
+  "Unlimited-OCR-mlx": "Native Apple Silicon inference for Baidu Unlimited-OCR. MLX-VLM dedicated unlimited-vlm pipeline for long-horizon document parsing.",
+  "speall": "One search field over the open neuroscience archives. Ingests public dataset metadata from seven archives, normalizes modality and species vocabularies.",
+  "t3code": "Agent harness control surface. Control agents on your machine with a mobile app (iOS, Android, web)."
+}

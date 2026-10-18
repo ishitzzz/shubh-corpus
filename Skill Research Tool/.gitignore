@@ -1,0 +1,4 @@
+# BEGIN clonedeps-managed
+.slim/clonedeps/repos/
+.slim/tmp/
+# END clonedeps-managed

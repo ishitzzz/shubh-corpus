@@ -1,0 +1,66 @@
+BUCKET A SUMMARY
+==================================================
+
+SOURCE: website (6 items)
+------------------------------
+
+1. Item ID: website_0
+   URL: https://shubhxho.com/
+   Date: 2026-09-20
+   Exact Quote: Skip to content
+Hey, I am Shubh
+I am currently 18. A few months ago, I dropped out of Imperial College London and moved to Bangalore.
+I am currently interning at Hudson River Trading.
+I recently exite...
+   Notes: section=home, page_type=home, chars=670
+
+2. Item ID: website_1
+   URL: https://shubhxho.com/blog
+   Date: 2026-09-20
+   Exact Quote: Skip to content
+← Shubh
+Starting a venture fund
+↓
+Build in public is the worst psyop in the world
+↓
+Larping and the case of larpers
+↓
+I recently raised $5 million for a venture fund. I want to use it ...
+   Notes: section=blog, page_type=blog_index, chars=10044
+
+3. Item ID: website_2
+   URL: https://shubhxho.com/daily
+   Date: 2026-09-02
+   Exact Quote: Skip to content
+← Shubh
+02/09/2026
+Trying to be honest about the scorecard.
+There is a version of success that looks very convincing from a distance: money came in, things moved, nothing fully fell ap...
+   Notes: section=daily, page_type=daily_index, chars=451
+
+4. Item ID: website_3
+   URL: https://shubhxho.com/writing/starting-a-venture-fund
+   Date: 2026-09-19
+   Exact Quote: Skip to content
+← Shubh
+I recently raised $5 million for a venture fund. I want to use it to back people who come from backgrounds like mine, especially people who are smart and ambitious but do not y...
+   Notes: section=writing, page_type=essay, chars=1204
+
+5. Item ID: website_4
+   URL: https://shubhxho.com/writing/build-in-public-is-the-worst-psyop-to-exist-in-the-world
+   Date: 2026-09-19
+   Exact Quote: Skip to content
+← Shubh
+Build in public is the worst psyop in the world.
+I mean the version where you spend more time making sure people know you are building than actually building. The daily update....
+   Notes: section=writing, page_type=essay, chars=5102
+
+6. Item ID: website_5
+   URL: https://shubhxho.com/writing/larping-and-the-case-of-larpers
+   Date: 2026-09-02
+   Exact Quote: Skip to content
+← Shubh
+I have been in Bangalore for a few months now, and I keep running into the same pattern: people larping a life instead of living it.
+Not the fun kind of LARP. I mean the everyd...
+   Notes: section=writing, page_type=essay, chars=3656
+

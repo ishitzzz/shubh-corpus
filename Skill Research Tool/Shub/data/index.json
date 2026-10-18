@@ -1,0 +1,140 @@
+{
+  "total": 53,
+  "per_source": {
+    "x": 46,
+    "shubh_website": 6,
+    "identity": 1
+  },
+  "chars": 11286,
+  "identity": {
+    "name": "Shubh Gupta",
+    "age": 18,
+    "college": "Imperial College London (dropped out)",
+    "location": "Bangalore",
+    "x_handle": "@shubhgupta",
+    "venture_fund": "$5M"
+  },
+  "x_summary": {
+    "records": 19,
+    "date_range": "2026-08-05 to 2026-09-13",
+    "reply_chains": 31,
+    "total_replies_in_threads": 390
+  },
+  "website_summary": {
+    "records": 6,
+    "pages": [
+      "home",
+      "blog_index",
+      "daily_index",
+      "essay",
+      "essay",
+      "essay"
+    ],
+    "essays": [
+      {
+        "title": "Starting a venture fund \u2014 Shubh",
+        "date": "Sat, 19 Se",
+        "chars": 1204
+      },
+      {
+        "title": "Build in public is the worst psyop in the world \u2014 Shubh",
+        "date": "Sat, 19 Se",
+        "chars": 5102
+      },
+      {
+        "title": "Larping and the case of larpers \u2014 Shubh",
+        "date": "Wed, 02 Se",
+        "chars": 3656
+      }
+    ],
+    "daily_entry": {
+      "date": "2026-09-02",
+      "preview": "Skip to content\n\u2190 Shubh\n02/09/2026\nTrying to be honest about the scorecard.\nThere is a version of success that looks very convincing from a distance: money came in, things moved, nothing fully fell ap"
+    }
+  },
+  "osint_summary": {
+    "platforms_scanned": 882,
+    "found": 84,
+    "name": "Shubh Gupta"
+  },
+  "reply_context": {
+    "total_chains": 31,
+    "total_replies": 390,
+    "top_reactors": [
+      {
+        "author": "OpenAI",
+        "count": 0
+      },
+      {
+        "author": "TheCh0pper",
+        "count": 0
+      },
+      {
+        "author": "joshelgar",
+        "count": 0
+      },
+      {
+        "author": "iloveFazz",
+        "count": 0
+      },
+      {
+        "author": "ash_siingh",
+        "count": 0
+      },
+      {
+        "author": "MaoJam7",
+        "count": 0
+      },
+      {
+        "author": "annaharperbbyxx",
+        "count": 0
+      },
+      {
+        "author": "Walker557947578",
+        "count": 0
+      },
+      {
+        "author": "TheBreakingRprt",
+        "count": 0
+      },
+      {
+        "author": "codewithrehan",
+        "count": 0
+      }
+    ]
+  },
+  "github": {
+    "repos": 52,
+    "starred": 15,
+    "languages": {
+      "Python": 13,
+      "Go": 3,
+      "TypeScript": 2,
+      "Rust": 1
+    },
+    "readmes": 9,
+    "most_active": [
+      "KytyPS5",
+      "omi",
+      "sable-chess-net",
+      "agent-sandbox",
+      "based-chess-rs"
+    ],
+    "key_projects": [
+      "omi",
+      "based-chess-rs",
+      "polymarket-model",
+      "visionary-mlx",
+      "Unlimited-OCR-mlx",
+      "KytyPS5",
+      "speall",
+      "agent-sandbox",
+      "t3code"
+    ],
+    "hf_models": 9,
+    "hf_datasets": 12,
+    "hf_spaces": 2,
+    "github_followers": 30,
+    "github_following": 66
+  }
+}
